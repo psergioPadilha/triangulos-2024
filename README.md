@@ -38,7 +38,7 @@ Triângulo Isósceles
 
 #### Clone o Repositório
 ```
-git clone https://github.com/academia-do-programador/triangulos-2024.git
+git clone https://github.com/psergioPadilha/triangulos-2024.git
 ```
 
 #### Navegue até a pasta raiz da solução
